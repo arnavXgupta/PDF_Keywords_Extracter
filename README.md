@@ -1,5 +1,5 @@
-# PDF_Keywords_Extracter
-This Python script dynamically extracts headings and their corresponding content from text-based PDF documents, specifically tailored for resumes. The program processes the document and identifies sections such as Education, Experience, Projects, and more without relying on predefined heading patterns.
+# PDF & Word Doc Data Extracter
+This Python script dynamically extracts headings and their corresponding content from text-based PDF and Word documents, specifically tailored for resumes. The program processes the document and identifies sections such as Education, Experience, Projects, and more without relying on predefined heading patterns.
 
 ## Features
 * Automated Heading Detection: The script uses structural clues from the document to identify headings, even if they do not follow a strict format. It intelligently identifies sections like Education, Experience, and other custom headings by detecting short lines that are likely to be headings.
